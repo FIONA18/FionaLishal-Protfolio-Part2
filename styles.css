@@ -7,6 +7,7 @@
 }
 body{
     font-family: 'Montserrat', sans-serif;
+    margin:0px;
 }
 /* containers */
 .container
@@ -92,6 +93,7 @@ body{
     font-size: 2rem;
     color: var(--dark-grey);
     padding-top: 1rem;
+    text-align: center;
 }
 .hero .hero-heading .hero-heading-inverted
 {
